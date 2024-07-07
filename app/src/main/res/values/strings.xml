@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Finger Print Voting System</string>
+    <string name="voting">Voting</string>
+    <string name="explore_the_voting">Explore the Voting</string>
+    <string name="you_are_great_because_you_can_give_a_voting">You are great because you can give a voting</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="do_you_forget_your_password">Do you forget your password</string>
+    <string name="sign_up">Sign-Up</string>
+    <string name="todo">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="voting2">Voting</string>
+    <string name="explore_the_voting2">Explore the Voting</string>
+    <string name="you_are_great_becuse_you_can_give_a_voting">You are great becuse you can give a voting</string>
+    <string name="your_e_mail">Your E-mail</string>
+    <string name="repeat_password">Repeat password</string>
+    <string name="sign_up2">Sign-Up</string>
+    <string name="do_you_forget_your_password2">Do you forget your password</string>
+    <string name="sign_in2">Sign-In</string>
+    <string name="register">Register</string>
+    <string name="name_narendra_damodardas_modi">Name - Narendra Damodardas Modi</string>
+    <string name="party_name_bjp">Party Name - BJP</string>
+    <string name="vote">Vote</string>
+    <string name="party_name_jdu">Party Name - JDU</string>
+    <string name="vote2">Vote</string>
+    <string name="name_nitish_kumar">Name - Nitish Kumar</string>
+    <string name="vote3">Vote</string>
+    <string name="todo3">TODO</string>
+    <string name="party_name_sp">Party Name - SP</string>
+    <string name="nane_akhilesh_yadav">Nane - Akhilesh Yadav</string>
+    <string name="vote4">Vote</string>
+    <string name="todo4">TODO</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568516775003",
+    "project_id": "finger-print-voting-syst-10947",
+    "storage_bucket": "finger-print-voting-syst-10947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568516775003:android:85fcb92e82eb105c64837e",
+        "android_client_info": {
+          "package_name": "com.example.fingerprintvotingsystem"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8uQB0a-TNDmU6OCrq8L9sV-ncgYBW3r4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
